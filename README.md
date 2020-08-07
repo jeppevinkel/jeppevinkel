@@ -33,5 +33,5 @@
 
 [website]: https://jeppdev.com
 [twitter]: https://twitter.com/JeppeVinkel
-[youtube]: https://youtube.com/UCG3yFoQHYz6IPtq34bxu3ug
+[youtube]: https://youtube.com/channel/UCG3yFoQHYz6IPtq34bxu3ug
 [linkedin]: https://linkedin.com/in/Jeppe-Vinkel-Beier
