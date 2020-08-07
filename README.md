@@ -15,9 +15,6 @@
 
 <img alt="jeppevinkel's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeppevinkel&hide_border=true&theme=nord" />
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -28,8 +25,6 @@
 - [Initial gravity test](https://www.youtube.com/watch?v=RrQLjSiFzd4)
 - [SCP:SL EXILED Server Episode 6 | Creating a command system](https://www.youtube.com/watch?v=Bz69JBfDv7w)
 <!-- YOUTUBE:END -->
-
-<br />
 
 ---
 
