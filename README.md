@@ -13,6 +13,8 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="jeppevinkel's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeppevinkel&hide_border=true&theme=nord" />
+
 <br />
 <br />
 
