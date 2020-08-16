@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [SCP:SL EXILED 2.0 Plugin Patching Tutorial](https://www.youtube.com/watch?v=pXK69ef8LuQ)
 - [SCP:SL EXILED 2.0 Windows Installation](https://www.youtube.com/watch?v=wEykP5PuEes)
 - [SCP:SL EXILED 2.0 Plugin Tutorial](https://www.youtube.com/watch?v=gx67ziYldvk)
 - [BB-Works AdminSuite Completeness test 01](https://www.youtube.com/watch?v=z8JaYqORd7M)
 - [Initial gravity test](https://www.youtube.com/watch?v=RrQLjSiFzd4)
-- [SCP:SL EXILED Server Episode 6 | Creating a command system](https://www.youtube.com/watch?v=Bz69JBfDv7w)
 <!-- YOUTUBE:END -->
 
 ---
