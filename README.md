@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to publicize an Assembly file](https://www.youtube.com/watch?v=fzJbpVB68zg)
 - [Modmon Theme](https://www.youtube.com/watch?v=-1mkh1s5U-Q)
 - [SCP:SL EXILED 2.0 Plugin Patching Tutorial](https://www.youtube.com/watch?v=pXK69ef8LuQ)
 - [SCP:SL EXILED 2.0 Windows Installation](https://www.youtube.com/watch?v=wEykP5PuEes)
 - [SCP:SL EXILED 2.0 Plugin Tutorial](https://www.youtube.com/watch?v=gx67ziYldvk)
-- [BB-Works AdminSuite Completeness test 01](https://www.youtube.com/watch?v=z8JaYqORd7M)
 <!-- YOUTUBE:END -->
 
 ---
