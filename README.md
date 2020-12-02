@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Unsuccessful Localization attempt](https://www.youtube.com/watch?v=ynpO5Djh-4E)
 - [Lidar test overlayed on floor plan](https://www.youtube.com/watch?v=ALkPFs0LquI)
 - [Index Pre-Order Frenzy (2019/05/01)](https://www.youtube.com/watch?v=EC1Nccsvv60)
 - [Virtual green screen LIV test (Phasmophobia, Beat Saber, Synth Riders) | Stream VOD](https://www.youtube.com/watch?v=yZcUpghghZg)
 - [Learn how to program C++ in 5 seconds with this simple trick!](https://www.youtube.com/watch?v=NpBfbwRtLgY)
-- [How to publicize an Assembly file](https://www.youtube.com/watch?v=fzJbpVB68zg)
 <!-- YOUTUBE:END -->
 
 ---
