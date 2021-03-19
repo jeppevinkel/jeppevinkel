@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Synth Riders Twitch Integration](https://www.youtube.com/watch?v=AMp1CNyOo6Y)
+- [Synth Riders Custom Songs](https://www.youtube.com/watch?v=7Y5uexc7opo)
 - [FNAF Stream Highlights](https://www.youtube.com/watch?v=jG_DulPH5mo)
 - [Unsuccessful Localization attempt](https://www.youtube.com/watch?v=ynpO5Djh-4E)
 - [Lidar test overlayed on floor plan](https://www.youtube.com/watch?v=ALkPFs0LquI)
-- [Index Pre-Order Frenzy (2019/05/01)](https://www.youtube.com/watch?v=EC1Nccsvv60)
-- [Virtual green screen LIV test (Phasmophobia, Beat Saber, Synth Riders) | Stream VOD](https://www.youtube.com/watch?v=yZcUpghghZg)
 <!-- YOUTUBE:END -->
 
 ---
