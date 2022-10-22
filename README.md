@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Set Windows Path Variables](https://www.youtube.com/watch?v=fPjL_q1YNgg)
+- [Jellyfin Tizen Build and Deploy Tutorial](https://www.youtube.com/watch?v=XeB5onaKnK4)
 - [Synth Riders | Come Out And Play Experience | Adrenaline](https://www.youtube.com/watch?v=VIK14Ffm_u4)
 - [Synth Riders Twitch Integration](https://www.youtube.com/watch?v=AMp1CNyOo6Y)
 - [Synth Riders Custom Songs](https://www.youtube.com/watch?v=7Y5uexc7opo)
-- [FNAF Stream Highlights](https://www.youtube.com/watch?v=jG_DulPH5mo)
-- [Unsuccessful Localization attempt](https://www.youtube.com/watch?v=ynpO5Djh-4E)
 <!-- YOUTUBE:END -->
 
 ---
