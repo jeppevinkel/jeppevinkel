@@ -19,7 +19,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cortex Life 2](https://www.youtube.com/watch?v=JEwB4ss3dUA)
+- [Cortex-Life 2](https://www.youtube.com/watch?v=JEwB4ss3dUA)
 - [How To Set Windows Path Variables](https://www.youtube.com/watch?v=fPjL_q1YNgg)
 - [Jellyfin Tizen Build and Deploy Tutorial](https://www.youtube.com/watch?v=XeB5onaKnK4)
 - [Synth Riders | Come Out And Play Experience | Adrenaline](https://www.youtube.com/watch?v=VIK14Ffm_u4)
