@@ -1,6 +1,6 @@
 ### Hi there, I'm [jeppevinkel][website]
 
-## I'm a Student, and Hobbyist
+## I'm an Engineer, and a Hobbyist
 
 ### Connect with me:
 
