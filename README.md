@@ -19,11 +19,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Beyond 2e Eye Tracking Test](https://www.youtube.com/shorts/iRtS8d1Hio8)
 - [Miku&#39;s Escape](https://www.youtube.com/watch?v=sIn-BTv0bJ4)
 - [Cortex-Life 2](https://www.youtube.com/shorts/JEwB4ss3dUA)
 - [How To Set Windows Path Variables](https://www.youtube.com/watch?v=fPjL_q1YNgg)
 - [Jellyfin Tizen Build and Deploy Tutorial](https://www.youtube.com/watch?v=XeB5onaKnK4)
-- [Synth Riders | Come Out And Play Experience | Adrenaline](https://www.youtube.com/watch?v=VIK14Ffm_u4)
 <!-- YOUTUBE:END -->
 
 ---
